@@ -1,4 +1,9 @@
 # Ipfinder
 mencari IP website
-cara pakai
-sh ip.sh
+
+cara install:
+chmod +x ip.sh
+
+cara pakai:
+./ip.sh
+
